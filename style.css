@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+    margin: 5px;
+    padding: 5px;
+    background-color: #fea49f;
+}
+
+h1 {
+    color: #101357;
+    font-family: #fantasy;
+}
+
+img {
+    width: 500px;
+    height: auto;
+    position: relative;
+    border-radius: 80%; 
+    outline-color: black; 
+}
+
+.p {
+    display: block; 
+}
+
+
+
