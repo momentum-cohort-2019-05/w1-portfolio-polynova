@@ -16,10 +16,9 @@ img {
     position: relative;
     border-radius: 80%; 
     outline-color: black; 
-}
 
-.p {
-    display: block; 
+body {
+    display: block;
 }
 
 
